@@ -1,0 +1,52 @@
+[{
+  "_id": {
+    "$oid": "668a9c9e188894d66b2cf20c"
+  },
+  "createdAt": {
+    "$date": "2024-07-07T13:48:14.661Z"
+  },
+  "modifiedAt": {
+    "$date": "2024-07-07T13:48:14.661Z"
+  },
+  "username": "paul",
+  "email": "paul@ikarsoft.com",
+  "password": "$2b$10$IAssc8B/QSv74b6DIgIFMeZ2iWwiGYiIHJyFCrU1xUUl7PpjdA.CS",
+  "scope": "USER",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d1059b3a8e1cbe39cea8ed"
+  },
+  "createdAt": {
+    "$date": "2024-08-29T23:34:51.845Z"
+  },
+  "modifiedAt": {
+    "$date": "2024-08-29T23:34:51.845Z"
+  },
+  "username": "nesi_blue",
+  "email": "nesi.blue@gmail.com",
+  "password": "$2b$10$wOwt2Zro0UoYwdZzXf106eDBCFn/aqKuHQCFgABQ/8oASuh6JRIA6",
+  "scope": "USER",
+  "firstName": "Amneris",
+  "lastName": "Suta",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67241ff62682b938fc83d8dd"
+  },
+  "createdAt": {
+    "$date": "2024-11-01T00:25:26.817Z"
+  },
+  "modifiedAt": {
+    "$date": "2024-11-01T00:25:26.817Z"
+  },
+  "username": "psperneac",
+  "email": "gepetto@gmail.com",
+  "password": "$2b$10$rU0QlXRQUMIw9w76yOmRq.ieP2cbtGdj5bq09NJXY3NhCs6517m6m",
+  "scope": "ADMIN",
+  "firstName": "Paul",
+  "lastName": "Sperneac",
+  "__v": 0
+}]

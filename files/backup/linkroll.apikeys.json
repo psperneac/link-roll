@@ -1,0 +1,69 @@
+[{
+  "_id": {
+    "$oid": "67696d2f0fd6b4e3393f53fe"
+  },
+  "createdAt": {
+    "$date": "2024-12-23T14:01:19.104Z"
+  },
+  "createdBy": {
+    "$oid": "67241ff62682b938fc83d8dd"
+  },
+  "modifiedAt": {
+    "$date": "2024-12-23T14:01:19.104Z"
+  },
+  "modifiedBy": {
+    "$oid": "67241ff62682b938fc83d8dd"
+  },
+  "userId": {
+    "$oid": "67241ff62682b938fc83d8dd"
+  },
+  "apiKey": "ca03na188ame03u1d78620de67282882a84",
+  "status": "active",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67697e40e1a02bdcb45adb66"
+  },
+  "createdAt": {
+    "$date": "2024-12-23T15:14:08.988Z"
+  },
+  "createdBy": {
+    "$oid": "67241ff62682b938fc83d8dd"
+  },
+  "modifiedAt": {
+    "$date": "2024-12-23T15:14:08.988Z"
+  },
+  "modifiedBy": {
+    "$oid": "67241ff62682b938fc83d8dd"
+  },
+  "userId": {
+    "$oid": "67241ff62682b938fc83d8dd"
+  },
+  "apiKey": "d2e621a6646a4211768cd68e26f21228a81",
+  "status": "active",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677217c581ea83608b02aebf"
+  },
+  "createdAt": {
+    "$date": "2024-12-30T03:47:17.034Z"
+  },
+  "createdBy": {
+    "$oid": "67241ff62682b938fc83d8dd"
+  },
+  "modifiedAt": {
+    "$date": "2024-12-30T03:47:17.034Z"
+  },
+  "modifiedBy": {
+    "$oid": "67241ff62682b938fc83d8dd"
+  },
+  "userId": {
+    "$oid": "67241ff62682b938fc83d8dd"
+  },
+  "apiKey": "zWdfv51krMOpaW8qamQloGymzHDgpLi2",
+  "status": "active",
+  "__v": 0
+}]

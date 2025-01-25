@@ -1,0 +1,67 @@
+@url = http://localhost:5100
+@email = gepetto@gmail.com
+
+### login
+# @name login
+# @prompt password
+
+POST {{url}}/api/authentication/login
+Content-Type: application/json
+
+{"email":"gepetto@gmail.com","password":"{{password}}"}
+
+### GET items
+@auth = {{login.response.body.authorization}}
+
+GET http://localhost:5100/api/items
+Authorization: {{auth}}
+
+### GET items
+@auth = {{login.response.body.authorization}}
+
+GET http://localhost:5100/api/items/6755c7a11e31cb53766efedd
+Authorization: {{auth}}
+
+###
+
+### DELETE item
+@auth = {{login.response.body.authorization}}
+
+DELETE http://localhost:5100/api/items/6765f9cc183f5c75f4485a4a
+Authorization: {{auth}}
+
+###
+
+### POST item
+@auth = {{login.response.body.authorization}}
+
+POST http://localhost:5100/api/items
+Content-Type: application/json
+Authorization: {{auth}}
+
+{
+ "name": "Diablo 4 Season 4 Podcast w/ Kripparrian, Macrobioboi & wudijo",
+ "description": "I'm Raxxanterax and I make Build Guides, Leveling Guides, Tier Lists and More for Diablo 4, Last Epoch, Path of Exile and Path of Exile 2. Had a long discussion about the current and future state of Diablo 4 with @Kripparrian @MacroBioBoi & @wudijo",
+ "url": "https://www.youtube.com/watch?v=Y2WN82zKByc",
+ "tags": ["diablo 4", "season 4", "podcast", "kripparrian", "macrobioboi", "wudijo", "youtube"]
+}
+
+### POST item
+@auth = {{login.response.body.authorization}}
+
+POST http://localhost:5100/api/items
+Content-Type: application/json
+Authorization: {{auth}}
+
+{
+ "name": "The Mortal Instruments: City of Bones",
+ "description": "The Mortal Instruments: City of Bones is a 2013 urban fantasy film based on the first book of The Mortal Instruments series by Cassandra Clare. It was directed by Harald Zwart, with a script written by Jessica Postigo. The film stars Lily Collins as Clary Fray, a teenager from New York City who meets a group of Nephilim known as the Shadowhunters while also discovering her own heritage and her family history. The cast also includes Jamie Campbell Bower, Robert Sheehan, Kevin Zegers, Lena Headey, Kevin Durand, Aidan Turner, Jemima West, Godfrey Gao, CCH Pounder, Jared Harris, and Jonathan Rhys Meyers.",
+ "url": "https://en.wikipedia.org/wiki/The_Mortal_Instruments:_City_of_Bones",
+ "tags": ["movie", "wikipedia", "synopsis", "the mortal instruments", "city of bones"]
+}
+
+### GET tags
+@auth = {{login.response.body.authorization}}
+
+GET http://localhost:5100/api/tags
+Authorization: {{auth}}

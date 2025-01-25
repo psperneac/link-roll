@@ -1,0 +1,382 @@
+[{
+  "_id": {
+    "$oid": "666682d3be5df40d1786d31b"
+  },
+  "createdAt": {
+    "$date": "2024-06-10T04:36:35.266Z"
+  },
+  "modifiedAt": {
+    "$date": "2024-06-10T04:36:35.266Z"
+  },
+  "name": "Diablo 4 Season 4 Podcast w/ Kripparrian, Macrobioboi & wudijo",
+  "description": "I'm Raxxanterax and I make Build Guides, Leveling Guides, Tier Lists and More for Diablo 4, Last Epoch, Path of Exile and Path of Exile 2. Had a long discussion about the current and future state of Diablo 4 with @Kripparrian @MacroBioBoi & @wudijo",
+  "url": "https://www.youtube.com/watch?v=Y2WN82zKByc",
+  "tags": [
+    "diablo 4",
+    "season 4",
+    "podcast",
+    "kripparrian",
+    "macrobioboi",
+    "wudijo",
+    "youtube"
+  ],
+  "__v": 0,
+  "createdBy": {
+    "$oid": "67241ff62682b938fc83d8dd"
+  },
+  "type": "LINK",
+  "access": "PUBLIC"
+},
+{
+  "_id": {
+    "$oid": "66668909b86c143dddb883d1"
+  },
+  "createdAt": {
+    "$date": "2024-06-10T05:03:05.681Z"
+  },
+  "modifiedAt": {
+    "$date": "2024-06-10T05:03:05.681Z"
+  },
+  "name": "The Mortal Instruments: City of Bones",
+  "description": "The Mortal Instruments: City of Bones is a 2013 urban fantasy film based on the first book of The Mortal Instruments series by Cassandra Clare. It was directed by Harald Zwart, with a script written by Jessica Postigo. The film stars Lily Collins as Clary Fray, a teenager from New York City who meets a group of Nephilim known as the Shadowhunters while also discovering her own heritage and her family history. The cast also includes Jamie Campbell Bower, Robert Sheehan, Kevin Zegers, Lena Headey, Kevin Durand, Aidan Turner, Jemima West, Godfrey Gao, CCH Pounder, Jared Harris, and Jonathan Rhys Meyers.",
+  "url": "https://en.wikipedia.org/wiki/The_Mortal_Instruments:_City_of_Bones",
+  "tags": [
+    "movie",
+    "wikipedia",
+    "synopsis",
+    "the mortal instruments",
+    "city of bones"
+  ],
+  "__v": 0,
+  "createdBy": {
+    "$oid": "67241ff62682b938fc83d8dd"
+  },
+  "type": "LINK",
+  "access": "PUBLIC"
+},
+{
+  "_id": {
+    "$oid": "66692ef7fad3f594e8df5739"
+  },
+  "createdAt": {
+    "$date": "2024-06-12T05:15:35.982Z"
+  },
+  "modifiedAt": {
+    "$date": "2024-06-12T05:15:35.982Z"
+  },
+  "name": "JavaScript POST Request – How to Send an HTTP POST Request in JS",
+  "description": "JavaScript POST Request – How to Send an HTTP POST Request in JS",
+  "url": "https://www.freecodecamp.org/news/javascript-post-request-how-to-send-an-http-post-request-in-js/",
+  "tags": [
+    "one",
+    "two",
+    "three"
+  ],
+  "__v": 0,
+  "createdBy": {
+    "$oid": "67241ff62682b938fc83d8dd"
+  },
+  "type": "LINK",
+  "access": "PUBLIC"
+},
+{
+  "_id": {
+    "$oid": "66693049fad3f594e8df573d"
+  },
+  "createdAt": {
+    "$date": "2024-06-12T05:21:13.518Z"
+  },
+  "modifiedAt": {
+    "$date": "2024-09-02T15:50:36.170Z"
+  },
+  "name": "HTML DOM IFrame contentWindow Property",
+  "description": "HTML DOM IFrame contentWindow Property",
+  "url": "https://www.w3schools.com/jsref/prop_frame_contentwindow.asp",
+  "tags": [
+    "html",
+    "iframe",
+    "contentWindow"
+  ],
+  "__v": 0,
+  "createdBy": {
+    "$oid": "67241ff62682b938fc83d8dd"
+  },
+  "modifiedBy": {
+    "$oid": "67241ff62682b938fc83d8dd"
+  },
+  "type": "LINK",
+  "access": "PUBLIC"
+},
+{
+  "_id": {
+    "$oid": "66693286fad3f594e8df5741"
+  },
+  "createdAt": {
+    "$date": "2024-06-12T05:30:46.044Z"
+  },
+  "modifiedAt": {
+    "$date": "2024-06-12T05:30:46.044Z"
+  },
+  "name": "JavaScript POST Request – How to Send an HTTP POST Request in JS",
+  "description": "JavaScript POST Request – How to Send an HTTP POST Request in JS",
+  "url": "https://www.freecodecamp.org/news/javascript-post-request-how-to-send-an-http-post-request-in-js/",
+  "tags": [
+    "javascript",
+    "POST",
+    "REST",
+    "request",
+    "submit"
+  ],
+  "__v": 0,
+  "createdBy": {
+    "$oid": "67241ff62682b938fc83d8dd"
+  },
+  "type": "LINK",
+  "access": "PUBLIC"
+},
+{
+  "_id": {
+    "$oid": "666cba2deeb489dac59f1887"
+  },
+  "createdAt": {
+    "$date": "2024-06-14T21:46:21.831Z"
+  },
+  "modifiedAt": {
+    "$date": "2024-09-02T15:33:04.138Z"
+  },
+  "name": "nzb.su/ - Search Nzbs",
+  "description": "Newsgroups search; Nzb downloads",
+  "url": "https://nzb.su/search/inside+out+2",
+  "tags": [
+    "nzb",
+    "download",
+    "search",
+    "movies"
+  ],
+  "__v": 0,
+  "createdBy": {
+    "$oid": "67241ff62682b938fc83d8dd"
+  },
+  "modifiedBy": {
+    "$oid": "67241ff62682b938fc83d8dd"
+  },
+  "type": "LINK",
+  "access": "PUBLIC"
+},
+{
+  "_id": {
+    "$oid": "666cbe19eeb489dac59f1889"
+  },
+  "createdAt": {
+    "$date": "2024-06-14T22:03:05.877Z"
+  },
+  "modifiedAt": {
+    "$date": "2024-06-14T22:03:05.877Z"
+  },
+  "name": "Multikey Indexes - MongoDB Manual v7.0",
+  "description": "Multikey Indexes - MongoDB Manual v7.0",
+  "url": "https://www.mongodb.com/docs/manual/core/indexes/index-types/index-multikey/",
+  "tags": [
+    "database",
+    "indexing",
+    "mongodb"
+  ],
+  "__v": 0,
+  "createdBy": {
+    "$oid": "67241ff62682b938fc83d8dd"
+  },
+  "type": "LINK",
+  "access": "PUBLIC"
+},
+{
+  "_id": {
+    "$oid": "666cc015eeb489dac59f188d"
+  },
+  "createdAt": {
+    "$date": "2024-06-14T22:11:33.036Z"
+  },
+  "modifiedAt": {
+    "$date": "2024-06-14T22:11:33.036Z"
+  },
+  "name": "db.collection.createIndex() - MongoDB Manual v7.0",
+  "description": "db.collection.createIndex() - MongoDB Manual v7.0",
+  "url": "https://www.mongodb.com/docs/manual/reference/method/db.collection.createIndex/#mongodb-method-db.collection.createIndex",
+  "tags": [
+    "database",
+    "mongodb",
+    "createIndex"
+  ],
+  "__v": 0,
+  "createdBy": {
+    "$oid": "67241ff62682b938fc83d8dd"
+  },
+  "type": "LINK",
+  "access": "PUBLIC"
+},
+{
+  "_id": {
+    "$oid": "667d82592abac9b6510dad87"
+  },
+  "createdAt": {
+    "$date": "2024-06-27T15:16:41.100Z"
+  },
+  "modifiedAt": {
+    "$date": "2024-09-02T15:29:44.462Z"
+  },
+  "name": "Heartseeker Rogue Build Guide - D4 Maxroll.gg",
+  "description": "Heartseeker Rogue Build Guide - D4 Maxroll.gg",
+  "url": "https://maxroll.gg/d4/build-guides/heartseeker-rogue-specialized-guide",
+  "tags": [
+    "diablo4",
+    "builds",
+    "heartseeker",
+    "rogue",
+    "blizzard"
+  ],
+  "__v": 0,
+  "createdBy": {
+    "$oid": "67241ff62682b938fc83d8dd"
+  },
+  "modifiedBy": {
+    "$oid": "67241ff62682b938fc83d8dd"
+  },
+  "type": "LINK",
+  "access": "PUBLIC"
+},
+{
+  "_id": {
+    "$oid": "667d82af2abac9b6510dad8a"
+  },
+  "createdAt": {
+    "$date": "2024-06-27T15:18:07.930Z"
+  },
+  "modifiedAt": {
+    "$date": "2024-06-27T15:18:07.930Z"
+  },
+  "name": "Masterworking Guide for Diablo 4 (Season 4) - Icy Veins",
+  "description": "Masterworking Guide for Diablo 4 (Season 4) - Icy Veins",
+  "url": "https://www.icy-veins.com/d4/guides/masterworking-guide/",
+  "tags": [
+    "diablo4",
+    "mechanics",
+    "masterworking"
+  ],
+  "__v": 0,
+  "createdBy": {
+    "$oid": "67241ff62682b938fc83d8dd"
+  },
+  "type": "LINK",
+  "access": "PUBLIC"
+},
+{
+  "_id": {
+    "$oid": "667d83bb2abac9b6510dad90"
+  },
+  "createdAt": {
+    "$date": "2024-06-27T15:22:35.317Z"
+  },
+  "modifiedAt": {
+    "$date": "2024-11-24T04:04:39.083Z"
+  },
+  "name": "Varză călită cu cârnați de casă | Laura Laurențiu",
+  "description": "Varză călită cu cârnați de casă | Laura Laurențiu",
+  "url": "https://www.lauralaurentiu.ro/retete-culinare/retete-mancare/varza-calita-cu-carnati-de-casa.html",
+  "tags": [
+    "recipes",
+    "cabbage",
+    "sausage",
+    "retete",
+    "varza",
+    "carnati",
+    "laura",
+    "mancare"
+  ],
+  "__v": 0,
+  "createdBy": {
+    "$oid": "67241ff62682b938fc83d8dd"
+  },
+  "modifiedBy": {
+    "$oid": "67241ff62682b938fc83d8dd"
+  },
+  "type": "LINK",
+  "access": "PUBLIC"
+},
+{
+  "_id": {
+    "$oid": "66af9cd4cdba62df980e6288"
+  },
+  "createdAt": {
+    "$date": "2024-08-04T15:23:00.041Z"
+  },
+  "modifiedAt": {
+    "$date": "2024-08-04T15:23:00.041Z"
+  },
+  "modifiedBy": "admin",
+  "name": "shadcn",
+  "description": "Component Library for React",
+  "url": "https://ui.shadcn.com/docs",
+  "tags": [
+    "shadcn",
+    "react",
+    "components",
+    "programming",
+    "javascript"
+  ],
+  "__v": 0,
+  "createdBy": {
+    "$oid": "67241ff62682b938fc83d8dd"
+  },
+  "type": "LINK",
+  "access": "PUBLIC"
+},
+{
+  "_id": {
+    "$oid": "6742d3625753ec0cc57a48aa"
+  },
+  "createdAt": {
+    "$date": "2024-11-24T07:18:58.604Z"
+  },
+  "createdBy": {
+    "$oid": "67241ff62682b938fc83d8dd"
+  },
+  "modifiedAt": {
+    "$date": "2024-12-08T16:21:16.489Z"
+  },
+  "modifiedBy": {
+    "$oid": "67241ff62682b938fc83d8dd"
+  },
+  "name": "CNN",
+  "description": "CNN",
+  "url": "http://www.cnn.com",
+  "tags": [
+    "cnn",
+    "news"
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6755c7a11e31cb53766efedd"
+  },
+  "createdAt": {
+    "$date": "2024-12-08T16:21:53.287Z"
+  },
+  "createdBy": {
+    "$oid": "67241ff62682b938fc83d8dd"
+  },
+  "modifiedAt": {
+    "$date": "2024-12-08T16:21:53.287Z"
+  },
+  "modifiedBy": {
+    "$oid": "67241ff62682b938fc83d8dd"
+  },
+  "name": "HotNews",
+  "description": "HotNews news de Romania",
+  "url": "http://hotnews.ro/",
+  "tags": [
+    "hotnews",
+    "news",
+    "index"
+  ],
+  "__v": 0
+}]

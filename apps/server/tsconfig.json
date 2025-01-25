@@ -1,0 +1,53 @@
+{
+  "compilerOptions": {
+    // "allowSyntheticDefaultImports": true,
+    // "baseUrl": ".",
+    // "declaration": true,
+    // "forceConsistentCasingInFileNames": true,
+    // "lib": ["es2020", "dom"],
+    // "removeComments": true,
+    // "emitDecoratorMetadata": true,
+    // "esModuleInterop": true,
+    // "experimentalDecorators": true,
+    // "incremental": false,
+    // // "module": "esnext",
+    // // "moduleResolution": "node",
+    // "noImplicitAny": false,
+    // "noFallthroughCasesInSwitch": false,
+    // "outDir": "./dist",
+    // "skipLibCheck": true,
+    // "skipDefaultLibCheck": true,
+    // "sourceMap": true,
+    // "strictBindCallApply": false,
+    // "target": "es2015",
+
+    "module": "commonjs",
+    "declaration": true,
+    "removeComments": true,
+    "emitDecoratorMetadata": true,
+    "experimentalDecorators": true,
+    "allowSyntheticDefaultImports": true,
+    "target": "ES2021",
+    "sourceMap": true,
+    "outDir": "./dist",
+    "baseUrl": "./",
+    "incremental": true,
+    "esModuleInterop": true,
+    
+    "skipLibCheck": true,
+    "strictNullChecks": false,
+    "forceConsistentCasingInFileNames": true,
+
+    "noImplicitAny": false,
+    "strictBindCallApply": false,
+    "noFallthroughCasesInSwitch": false
+  },
+  "include": [
+    "src/**/*.ts",
+    // "prettier.config.mjs"
+  ],
+  "exclude": [
+    "./scripts",
+    "jest.config.ts", "src/**/*.spec.ts", "src/**/*.test.ts"
+  ]
+}
