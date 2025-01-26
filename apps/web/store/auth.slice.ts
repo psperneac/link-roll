@@ -1,4 +1,4 @@
-import { UserWithAuthenticationDto, RegisterUserDto } from '@link-roll/models';
+import { UserWithAuthenticationDto, RegisterUserDto } from '@/models';
 import { createAsyncThunk, createSlice, PayloadAction } from '@reduxjs/toolkit';
 import axios from 'axios';
 import { toast } from 'react-toastify';
@@ -19,7 +19,7 @@ const initialState: AuthState = {
   error: undefined,
 };
 
-const baseUrl = `${process.env.APP_API_URL}/authentication`;
+const baseUrl = process.env.EXPO_PUBLIC_APP_API_URL + '/authentication';
 
 export const authApi = {
   login: (email: string, password: string) => {

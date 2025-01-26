@@ -7,7 +7,7 @@ export const TAG = {
 };
 
 const baseQuery = fetchBaseQuery({
-  baseUrl: `${process.env.APP_API_URL}`,
+  baseUrl: process.env.EXPO_PUBLIC_APP_API_URL,
   prepareHeaders: (headers, {getState}) => {
     const state: any = getState();
     headers.set(HEADER_AUTH, state?.auth?.user?.authorization);

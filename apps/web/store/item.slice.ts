@@ -1,5 +1,5 @@
 import axios from 'axios';
-import { ItemDto } from '@link-roll/models';
+import { ItemDto } from '@/models';
 import { createAsyncThunk, createSlice } from '@reduxjs/toolkit';
 import { alertActions, AppState } from '.';
 import { toast } from 'react-toastify';

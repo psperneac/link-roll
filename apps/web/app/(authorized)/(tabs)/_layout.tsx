@@ -34,10 +34,32 @@ export default function TabLayout() {
         }}
       />
       <Tabs.Screen
+        name="items/index"
+        options={{
+          headerTitle: 'Items',
+          title: 'Items',
+          tabBarIcon: ({ color }) => <IconSymbol size={28} name="list" color={color} />,
+        }}
+      />
+      <Tabs.Screen
         name="explore"
         options={{
           title: 'Explore',
           tabBarIcon: ({ color }) => <IconSymbol size={28} name="paperplane.fill" color={color} />,
+        }}
+      />
+      <Tabs.Screen
+        name="user"
+        options={{
+          tabBarLabel: "User",
+          tabBarIcon: ({ color }) => <IconSymbol size={28} name="user" color={color} />
+        }}
+      />
+      <Tabs.Screen
+        name="settings"
+        options={{
+          tabBarLabel: "Settings",
+          tabBarIcon: ({ color }) => <IconSymbol size={28} name="settings" color={color} />
         }}
       />
     </Tabs>
